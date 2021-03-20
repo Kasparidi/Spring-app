@@ -6,7 +6,8 @@ Main - creating the first application with Spring core.
 1. Apply manual Inversion Control - IoC (cc8cf8).
 1. Apply DI (dependency injection) with *constructor*(e87515) .
    Use XML-configuration.
-1. Apply DI with *setter*, simple values. Learn use file .properties.
+1. Apply DI with *setter*, simple values. Learn use file .properties (1270e8).
+1. Try scope configuration.
 
 ### TOOLS
 Maven, Spring
